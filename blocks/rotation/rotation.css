@@ -1,0 +1,9 @@
+@keyframes round {
+  to {
+    transform:rotate(360deg);
+  }
+}
+
+.rotation {
+  animation: round 20s linear infinite normal;
+}

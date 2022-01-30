@@ -1,0 +1,11 @@
+.techniques__container {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  width: 80%;
+}
