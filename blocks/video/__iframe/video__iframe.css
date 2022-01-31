@@ -1,6 +1,6 @@
 .video__iframe {
   margin: 0;
   padding: 0;
-  border: none;
+  border: 0;
   z-index: 100;
 }
