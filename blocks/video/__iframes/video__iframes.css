@@ -7,4 +7,5 @@
   justify-content: space-between;
   list-style: none;
   width: 1050px;
+  z-index: 500;
 }
